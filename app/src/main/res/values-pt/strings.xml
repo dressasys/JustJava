@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Só Java</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="email_hint">Email</string>
+    <string name="messageDecrement">Desculpe, você não pode pedir menos que 1 café</string>
+    <string name="messageIncrement">Desculpe, você só pode pedir 100 a cada vez!</string>
+    <string name="name">Nome</string>
+    <string name="name_hint">Digite seu nome</string>
+    <string name="order">Pedido</string>
+    <string name="quantity">Quantidade</string>
+    <string name="thanks">Obrigado :)</string>
+    <string name="toppings">Coberturas</string>
+    <string name="total">Total R$</string>
+    <string name="whipped_cream">Chantilly</string>
+    <string name="order_for">Pedido Para</string>
+</resources>
